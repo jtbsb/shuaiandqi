@@ -23,7 +23,7 @@ export default class App extends React.Component {
 
     fullStyle = [
         `/*
-* Hi。阿猪！
+* Hi。阿琪！
 * 这么久了。还没和宝贝说过我的工作呢！
 * 我是个前端工程师。俗称程序员。网页相关。
 * 如这个页面。就是个什么也没有的网页。
