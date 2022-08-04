@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jtbsb/shuaiandqi.git"
+    "url": "git+https://github.com/yacan8/valentine.git"
   },
   "author": "can.yang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jtbsb/shuaiandqi/issues"
+    "url": "https://github.com/yacan8/valentine/issues"
   },
-  "homepage": "https://github.com/jtbsb/shuaiandqi#readme",
+  "homepage": "https://github.com/yacan8/valentine#readme",
   "dependencies": {
     "prismjs": "^1.17.1",
     "react": "16.0",
